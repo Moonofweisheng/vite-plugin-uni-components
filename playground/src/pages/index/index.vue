@@ -54,6 +54,12 @@ const attachmentsItems = ref([
     </wd-button>
   </div>
   <div class="block">
+    <h1>Wot UI</h1>
+    <wd-button type="success" block>
+      Button
+    </wd-button>
+  </div>
+  <div class="block">
     <h1>Uv UI</h1>
     <uv-button type="success" block>
       Button

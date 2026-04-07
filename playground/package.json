@@ -57,6 +57,7 @@
     "vite": "5.2.8",
     "vite-plugin-inspect": "11.3.3",
     "vue-tsc": "^3.2.3",
-    "wot-design-uni": "^1.14.0"
+    "wot-design-uni": "^1.14.0",
+    "@wot-ui/ui": "^2.0.0-alpha.3"
   }
 }
